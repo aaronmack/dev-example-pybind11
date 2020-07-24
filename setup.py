@@ -105,7 +105,7 @@ setup(
     version=__version__,
     author='Aaron Mack',
     author_email='lilong999000@gmail.com',
-    url='',
+    url='https://github.com/aaronmack/dev-example-pybind11.git',
     description='A test project using pybind11',
     long_description='',
     ext_modules=ext_modules,
